@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors-Game
 Developing the popular "ROCK-PAPER-SCISSORS-GAME" making use of frontend technologies such as HTML, CSS and  JavaScript.
+
 HTML (index.html):
 The HTML file sets up the structure of the Rock Paper Scissors game. It includes the necessary metadata, such as the character set and viewport settings. The main content consists of an <h1> heading, three game choices represented by <div> elements with associated images, a score board with two sections for the player and computer scores, and a message container displaying game-related messages. Additionally, external styles are linked through a <link> tag, and the JavaScript logic is linked through a <script> tag at the end of the body.
 
